@@ -1,0 +1,7 @@
+aiogram>=3.0,<4.0
+anthropic
+ezdxf
+shapely
+cairosvg
+python-dotenv
+matplotlib
